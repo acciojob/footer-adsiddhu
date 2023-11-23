@@ -11,7 +11,11 @@ footer{
 	display:flex;
 	justify-content:space-around;
 }
+.media-icons{
+	display:flex;
+}
 .media-icons img{
+/* 	display:flex; */
 	width:30px;
 	height:30px;
 	border-radius:50%;
